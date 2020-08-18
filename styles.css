@@ -1,0 +1,79 @@
+@font-face {
+    font-family: Roboto-Bold;
+    src: url(Roboto-Bold.ttf);
+}
+
+@font-face {
+    font-family: Roboto-Medium;
+    src: url(Roboto-Regular.ttf);
+}
+
+/* Styling for body */
+#profile-pic {
+    width: 15%;
+    height: 15%;
+}
+section {
+    margin-top: 150px;
+    text-align: center;
+    color: #383838;
+}
+
+body {
+    font-family: Roboto-Medium;
+}
+
+p {
+    margin: 5px;
+    font-size: 18px;
+}
+
+h1 {
+    font-family: Roboto-Bold;
+    font-size: 36px;
+}
+
+/* Email link*/
+a#email{
+    color: #4285F4;
+}
+a#email:hover {
+    color: #1a2a42;
+}
+
+/* Personal Links */
+.links {
+    font-family: Roboto-Bold;
+    font-size: 28px;
+    margin-top: 28px;
+    color: #383838;
+    transition: ease 0.3s;
+}
+.links a {
+    margin: 12px;
+}
+.links a:link {
+    text-decoration: none;
+    color: #383838;
+}
+.links a:visited {
+    color: #383838; 
+}
+
+a {
+    transition: ease 0.4s;
+}
+
+a#github:hover {
+    color: #0366d6;
+}
+a#linkedin:hover {
+    color: #2867b2;
+}
+a#portfolio:hover {
+    color: #C280C0;
+}
+a#resume:hover {
+    color: #51BB8E;
+}
+
