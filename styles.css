@@ -1,11 +1,11 @@
 @font-face {
     font-family: Roboto-Bold;
-    src: url(Roboto-Bold.ttf);
+    src: url(res/Roboto-Bold.ttf);
 }
 
 @font-face {
     font-family: Roboto-Medium;
-    src: url(Roboto-Regular.ttf);
+    src: url(res/Roboto-Regular.ttf);
 }
 
 /* Styling for body */
